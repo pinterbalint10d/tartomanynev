@@ -72,6 +72,10 @@ a {
   color: yellow;
 }
 
+a:visited {
+  color: yellow;
+}
+
 a:hover {
   color: red;
 }
